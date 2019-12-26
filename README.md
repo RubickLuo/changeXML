@@ -6,4 +6,4 @@
 * 删除xml文件夹中存在错误的文件（例如，path参数为空）
 * 处理xml文件中path条目与当前工作目录不匹配的问题，自动修改为当前工作目录。
 * 修改xml文件中filename及folder条目
-######[此外，为了保证annotations文件夹数据完整，将存在img的图片copy到img目录下；将不存在img的xml文件move到noImgXml文件夹下]
+* [此外，为了保证annotations文件夹数据完整，将存在img的图片copy到img目录下；将不存在img的xml文件move到noImgXml文件夹下]
