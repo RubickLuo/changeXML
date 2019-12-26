@@ -7,3 +7,4 @@
 * git commit -m "add new file to branch dev"
 * [add new line]
 * git master add a new line
+* git master add a new line
