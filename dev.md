@@ -6,3 +6,4 @@
 * //将dev.md这个文件提交到dev分支
 * git commit -m "add new file to branch dev"
 * [add new line]
+* git master add a new line
