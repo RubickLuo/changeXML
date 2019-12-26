@@ -1,4 +1,4 @@
-* add a new line(cause conflict)
+* add a new line; change this line->(cause conflict)
 * git branch dev
 * git checkout dev
 * //将dev.md这个文件添加到stage
